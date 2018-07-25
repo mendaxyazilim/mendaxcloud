@@ -1,0 +1,2 @@
+# mendaxcloud
+Mendax CloudFlare Bypasser
